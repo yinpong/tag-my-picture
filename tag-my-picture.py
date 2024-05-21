@@ -6,7 +6,7 @@ import uuid
 import shutil
 import mimetypes
 
-# You should chance these variables
+# You should change these variables
 
 collection_id='Faces4Photoprism'        # doesn't matter, name it what you like
 collection_filename="./collection.txt"  # we store all faces sent to AWS Rekognition locally so we don't do it twice
